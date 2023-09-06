@@ -1,4 +1,4 @@
-LLectura NDEF
+Lectura NDEF
 Found chip PN532
 Firmware ver. 1.6
 
