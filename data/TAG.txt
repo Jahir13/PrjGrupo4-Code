@@ -1,0 +1,15 @@
+LLectura NDEF
+Found chip PN532
+Firmware ver. 1.6
+
+ Escaneando Tarjeta
+Lectura NDEF
+Found chip PN532
+Firmware ver. 1.6
+
+ Escaneando Tarjeta
+Tag is not NDEF formatted.
+NFC Tag - Mifare Classic
+UID 43 DB 68 A9
+
+No NDEF Message
